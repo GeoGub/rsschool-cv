@@ -1,21 +1,24 @@
-# 1. First_name Surname
+## 1. First_name Surname
 George Gubarkov
 
-# 2. Connect
+## 2. Connect
 -telegram @uQvek
 -vk /uqvek
 
-# 3. Цели в жизни...
+## 3. Summary
+I don't know...
 
-# 4. Skills
--Python 
-    > Flask
--html, css
+## 4. Skills
+1. Python 
+    1. Flask
+2. html, css
 
-# 5. Code 
+## 5. Code 
 
-# 6. Expirience
+## 6. Expirience
 
-# 7. Edu
+## 7. Education
 
-# 8. Eng
+
+## 8. English
+Intermediate
