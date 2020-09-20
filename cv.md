@@ -6,19 +6,22 @@ George Gubarkov
 -vk /uqvek
 
 ## 3. Summary
-I don't know...
+Want learn js
 
 ## 4. Skills
 1. Python 
     1. Flask
 2. html, css
+3. MySQL
 
 ## 5. Code 
 
 ## 6. Expirience
 
 ## 7. Education
-
+Университет международного бизнеса, г. Алматы
+Факультет делового администрирования (дневная форма)
+Бакалавр. Связи с общественностью
 
 ## 8. English
 Intermediate
