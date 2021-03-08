@@ -30,6 +30,12 @@ h2 {
 
 .personal-information {display: flex;}
 
+.personal-information > h2 {
+  position: absolute;
+  top: 0;
+  font-size: 0;
+}
+
 .my-photo {
   max-width: 150px;
   width: 100%;
@@ -55,11 +61,15 @@ h2 {
   max-width: 1440px;
 }
 
+.about-me > h2 {
+  display: flex;
+  justify-content: center;
+}
 
 .edu__item {
   display: flex;
   height: 50px;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .skills__list {margin-left: 16px;}
